@@ -1,4 +1,4 @@
-# Hello there I am Jeneidys Molina👋
+# Hello there I am Jen Molina👋
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
