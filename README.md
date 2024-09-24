@@ -22,7 +22,7 @@
   </a>
   &emsp;
   <a>
-    <img alt="React" src="https://img.shields.io/badge/-Serverless-orange?logo=serverless&logoColor=white"/>
+    <img alt="React" src="https://img.shields.io/badge/-Node.js-303030?style=flat-square&logo=Node.js"/>
   </a>
   &emsp;
   <a>
