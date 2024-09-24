@@ -22,7 +22,7 @@
   </a>
   &emsp;
   <a>
-    <img alt="React" src="https://img.shields.io/badge/-Node.js-303030?style=flat-square&logo=Node.js"/>
+    <img alt="React" src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=React"/>
   </a>
   &emsp;
   <a>
